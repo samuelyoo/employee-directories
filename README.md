@@ -1,7 +1,7 @@
-# Budget-Tracker
+# Employee Directories
 
 ## Abstract
-Budget-Traker PWA App! is able to view create and track daily budgets.
+this web application built for employee directories with React. This application built for managing company's emmployee with using nonSQL (mongoDB).
 
 ## Table of contents
 * [Abstract](#Abstract)
@@ -14,29 +14,28 @@ Budget-Traker PWA App! is able to view create and track daily budgets.
 
 ## Installation
 
-This application is deployed with heroku. try link below.
+This application is deployed with a github page. try link below.
 
-Budget-tracker: [Heroku](https://murmuring-peak-79291.herokuapp.com/)
+Employee Directory: [Deploy](https://samuelyoo.github.io/employee-directories)
 
 
-## Usage
+## Usage (user story  and business context)
  
-When user insert the fund information, and user can choose add / subtract funds.
-When user click the button, input fund data will add or subtract, and the fund infomation will show up on the table and graph. Since it is PWA app, inputed data will remain when web on offline and will save inputs from offline, and it will update when web app turn to online.
+User Story
 
+As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
+
+
+Business Context
+An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
 
 ## Sample
 
-### Screenshot
-![sample](/assets/demo.png)
 
 ## Technologies
 
-* Heroku: [Heroku](https://murmuring-peak-79291.herokuapp.com/)
-* express
+* React
 * mongodb
-* mongoose
-* morgan
 
 
 ### Contact
@@ -45,7 +44,7 @@ Email: sam.hc.yoo@gmail.com
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/samuel-hc-yoo)
 
 #### Credits
-The sturucture of HTML, CSS, javaScript were provided by [Triology Education Services, a 2U, Inc. brand]
+The sturucture of works were provided by Instructor Fil[Triology Education Services, a 2U, Inc. brand]
 
 
 ### Licence
