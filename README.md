@@ -1,68 +1,53 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Budget-Tracker
 
-## Available Scripts
+## Abstract
+Budget-Traker PWA App! is able to view create and track daily budgets.
 
-In the project directory, you can run:
+## Table of contents
+* [Abstract](#Abstract)
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [Sample](#Sample)
+* [Technologies](#Technologies)
+* [Contact](#Contact)
+* [Licence](#Licence)
 
-### `npm start`
+## Installation
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+This application is deployed with heroku. try link below.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Budget-tracker: [Heroku](https://murmuring-peak-79291.herokuapp.com/)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Usage
+ 
+When user insert the fund information, and user can choose add / subtract funds.
+When user click the button, input fund data will add or subtract, and the fund infomation will show up on the table and graph. Since it is PWA app, inputed data will remain when web on offline and will save inputs from offline, and it will update when web app turn to online.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Sample
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+### Screenshot
+![sample](/assets/demo.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Technologies
 
-### `npm run eject`
+* Heroku: [Heroku](https://murmuring-peak-79291.herokuapp.com/)
+* express
+* mongodb
+* mongoose
+* morgan
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Contact
+Email: sam.hc.yoo@gmail.com
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/samuel-hc-yoo)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+#### Credits
+The sturucture of HTML, CSS, javaScript were provided by [Triology Education Services, a 2U, Inc. brand]
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+### Licence
+MIT license
+copy right (c) Samuel Yoo
