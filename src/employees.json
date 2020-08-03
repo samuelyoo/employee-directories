@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Samuel",
+    "location": "Toronto",
+    "department": "IT"
+  },
+  {
+    "id": 2,
+    "name": "Christine",
+    "location": "Montreal",
+    "department": "Finance"
+  },
+  {
+    "id": 3,
+    "name": "Damon",
+    "location": "Toronto",
+    "department": "BI"
+  },
+  {
+    "id": 4,
+    "name": "Daniel",
+    "location": "Ottawa",
+    "department": "BI"
+  },  
+  {
+    "id": 5,
+    "name": "Edmund",
+    "location": "NorthYork",
+    "department": "IT"
+  },
+  {
+    "id": 6,
+    "name": "Chet",
+    "location": "NewYork",
+    "department": "R&D"
+  },
+  {
+    "id": 7,
+    "name": "Eddi",
+    "location": "NewYork",
+    "department": "R&D"
+  },
+  {
+    "id": 8,
+    "name": "Sadia",
+    "location": "Toronto",
+    "department": "HR"
+  },  
+  {
+    "id": 9,
+    "name": "Doug",
+    "location": "NewYork",
+    "department": "R&D"
+  },
+  {
+    "id": 10,
+    "name": "James",
+    "location": "Toronto",
+    "department": "HR"
+  }
+]
